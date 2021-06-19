@@ -30,7 +30,11 @@ Languages:
     menu:
       shortcuts:
         - identifier: ds
-          name: <i class='fab fa-fw fa-github'></i> GitHub repo
+          name: <i class='fab fa-fw fa-github'></i> GitHub for this page
+          url: https://github.com/mateenshaikh/onlineresources
+          weight: 5
+        - identifier: ds2
+          name: <i class='fab fa-fw fa-github'></i> GitHub repo for website theme
           url: https://github.com/matcornic/hugo-theme-learn
           weight: 10
         - name: <i class='fas fa-fw fa-camera'></i> Showcases
@@ -40,9 +44,9 @@ Languages:
           name: <i class='fas fa-fw fa-bookmark'></i> Hugo Documentation
           url: https://gohugo.io/
           weight: 20
-        - name: <i class='fas fa-fw fa-bullhorn'></i> Credits
-          url: /credits
-          weight: 30
+#        - name: <i class='fas fa-fw fa-bullhorn'></i> Credits
+#          url: /credits
+#          weight: 30
     title: Documentation for Hugo Learn Theme
     weight: 1
   fr:
@@ -102,4 +106,3 @@ markup:
     noClasses: true
     style: solarized-dark
     tabWidth: 4
-  
