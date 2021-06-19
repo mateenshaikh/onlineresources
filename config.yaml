@@ -104,5 +104,5 @@ markup:
     lineNos: false
     lineNumbersInTable: true
     noClasses: true
-    style: solarized-dark
+    style: solarized-light
     tabWidth: 4
