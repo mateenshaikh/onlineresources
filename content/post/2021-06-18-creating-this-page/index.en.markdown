@@ -16,8 +16,7 @@ This site is a combination of several tools including
 Make sure that the `blogdown` package is updated. Update Hugo if you need to.
 ## Netlify
 
-Make sure you create the appropriate github repo that is a match for your username.github.io. Within that, you can create as many submodules as you want for the page.
-
+Make sure you create an appropriate site on netlify. you have to create a new site for every project. There aren't subdomains like github pages.
 
 
 ## Themes
