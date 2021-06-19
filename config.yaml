@@ -104,5 +104,5 @@ markup:
     lineNos: true
     lineNumbersInTable: true
     noClasses: true
-    style: perldoc
+    style: monokai
     tabWidth: 4
