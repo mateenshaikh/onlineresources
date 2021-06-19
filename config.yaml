@@ -101,8 +101,8 @@ markup:
     codeFences: true
     hl_Lines: ''
     lineNoStart: 1
-    lineNos: true
+    lineNos: false
     lineNumbersInTable: true
     noClasses: true
-    style: monokai
+    style: solarized-dark
     tabWidth: 4
